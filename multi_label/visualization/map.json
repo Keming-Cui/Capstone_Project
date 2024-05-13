@@ -1,0 +1,4 @@
+{
+    "resnet34" : "/home/bai_gairui/multi_label/lightning_logs/version_30/metrics.csv", 
+    "resnet50" : "/home/bai_gairui/multi_label/logs/train-resnet50/version_0/metrics.csv"
+}
